@@ -2,7 +2,7 @@
 .search-card-container{
   height: 100vh;
   max-width: 100%;
-  background-color: #ccc;
+  background-color: #eee3e7;
   background-position: center center;
   padding: 100px;
   background-size: cover;
@@ -46,20 +46,50 @@
 
 .item-2 > h1{
   text-align: center;
+  margin-top: 50px;
   color: #fff;
+  font-size: 80px;
 }
 
 .item-2 > p{
+  padding-top: 70px;
   text-align: center;
+  font-size: 30px;
+   padding-left: 200px;
+  padding-right: 200px ;
   color: #fff;
 }
 
+.search-card-container-3{
+  height: 100vh;
+  max-width: 100%;
+  background-color:  #b1c9d9;
+  background-position: center center;
+  padding: 100px;
+  background-size: cover;
 
+}
 
+.item-3 > h1{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 80px;
+}
 
+.row{
+  margin-top: 40px;
+}
 
-.carousel-item > img{
-  height:500px;
+.card > img{
+  margin-top: 30px;
+}
+
+.card > h3{
+  padding-top: 10px;
+}
+
+.card-body > p{
+  margin-top: 0.1px;
 }
 
 .card{
@@ -82,3 +112,4 @@
 .card > p{
   text-align: center;
 }
+
